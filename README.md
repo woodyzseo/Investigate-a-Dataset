@@ -8,3 +8,8 @@ This project begins with data wrangling and data cleaning of setting data into d
 2.Does higher vote mean more profit?<br>
 3.Discover trends of the movie industry over time.<br>
 4.Compare movies with top budget with top revenue.<br>
+## Findings
+<li>TV and Documentation are genres with the highest profits. This could be coming from the viewers of TV channels.</li>
+<li>A good movie generally sells better, but not 100%.</li>
+<li>Movies are getting shorter, receieving less budget, revenue ,and less profitable. Moreover, it is getting worse a little bit in average. </li>
+<li> A blockbuster sells good has better evaluation, and more profitable.</li>
